@@ -1,6 +1,6 @@
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='vampires' src='https://img.shields.io/badge/vampires-100000?style=for-the-badge&logo=vampires&logoColor=000000&labelColor=d80303&color=d80303'/></a> 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=HII+IM+CUNK!!!!)](https://git.io/typing-svg)
 
-### HII IM CUNK!
+
 How many times my profile has been viewed:
 
 ![](https://komarev.com/ghpvc/?username=cunkerion&color=yellow&style=for-the-badge)
