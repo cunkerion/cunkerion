@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=HII+IM+CUNK!!!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comic+Neue&weight=900&size=30&pause=1000&color=FFC100&width=435&lines=HII+IM+CUNK!!!)](https://git.io/typing-svg)
 
 
 How many times my profile has been viewed:
