@@ -1,7 +1,7 @@
 ## HII IM CUNK!
 How many times my profile has been viewed:
 
-![](https://komarev.com/ghpvc/?username=cunkerion&color=yellow)
+![](https://komarev.com/ghpvc/?username=cunkerion&color=yellow&style=for-the-badge)
 <!--
 **cunkerion/cunkerion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
