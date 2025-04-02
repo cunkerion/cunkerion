@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Comic+Neue&weight=900&size=30&pause=1000&color=FFC100&width=435&lines=HII+IM+CUNK!!!)](https://git.io/typing-svg)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Comic+Neue&weight=900&pause=1000&color=FFC100&width=435&lines=I+like%3A)](https://git.io/typing-svg)
+
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='vampires' src='https://img.shields.io/badge/vampires-100000?style=for-the-badge&logo=vampires&logoColor=000000&labelColor=d80303&color=d80303'/></a> <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='clowns' src='https://img.shields.io/badge/clowns-100000?style=for-the-badge&logo=clowns&logoColor=000000&labelColor=FFBB00&color=FFBB00'/></a> <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='vampires' src='https://img.shields.io/badge/VAMPIRE_CLOWNS-100000?style=for-the-badge&logo=vampires&logoColor=DA1E1E&labelColor=DD0F00&color=F04800'/></a>
 
 
