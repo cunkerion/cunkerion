@@ -1,0 +1,51 @@
+/**
+ * @name yay
+ * @author DevilBro
+ * @version 1.0.5
+ * @description Allows you to use a background image without greatly altering the basic look of Discord.
+ * @source https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/master/Themes/BasicBackground/BasicBackground.theme.css
+ * @invite Jx3TjNS
+ * @donate https://www.paypal.me/MircoWittrien
+ * @patreon https://www.patreon.com/MircoWittrien
+ * @website https://github.com/mwittrien/BetterDiscordAddons/tree/master/Themes/BasicBackground
+ * @authorId 278543574059057154
+ * @BDEditor BasicBackground
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;300;400;500;700&display=swap');
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/BasicBackground/BasicBackground.css');
+
+:root {
+  --background: url('https://i.imgur.com/60r9ASC.gif');
+  --backgroundsize: auto;
+  --backgroundposition: center right;
+  --backgroundblur: 25px;
+  --popout: var(--background);
+  --popoutsize: var(--backgroundsize);
+  --backgroundposition: center right;
+  --popoutblur: 0px;
+  --transparencycolor: 0,0,0;
+  --accentcolor: 100,0,255;
+  --backdrop: rgb(0,0,0,0.88);
+  --textshadow: rgb(0,0,0,1);
+  --transparencyalpha: 0.7;
+  --messagetransparency: 0.64;
+  --guildchanneltransparency: 0.34;
+  --chatinputtransparency: 1;
+  --memberlisttransparency: 0.34;
+  --font: Inter;
+  --textbrightest: 231,110,255;
+  --textbrighter: 105,0,251;
+  --textbright: 136,0,251;
+  --textdark: 191,0,255;
+  --textdarker: 116,0,228;
+  --textdarkest: 50,0,118;
+  --settingsicons: 1;
+  --backdropsize: var(--background-size);
+  --backdropblur: 0px;
+  --version1_0_5: none;
+}
+
+/* Any custom CSS below here */
+
+
